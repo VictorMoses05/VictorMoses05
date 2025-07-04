@@ -1,5 +1,5 @@
 <h1 align="center">Hey I'm VICTOR MOSES MP</h1>
-- 🌱 I’m currently learning **B.TECH ARTIFICIAL INTELLIGENCE AND DATA SCIENCE**
+- 🌱 I have persued my degree at **B.TECH ARTIFICIAL INTELLIGENCE AND DATA SCIENCE**
 
 - 📫 How to reach me **kit.25.21bad060@gmail.com**
 
